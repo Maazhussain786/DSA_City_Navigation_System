@@ -1,4 +1,6 @@
 
+Depolyed Link : https://web-production-c8bc6.up.railway.app/
+
 # **Islamabad Smart Navigation System**
 
 *A multi-route, traffic-aware, fuel-optimized navigation engine built with Flask, Leaflet, and OpenStreetMap.*
